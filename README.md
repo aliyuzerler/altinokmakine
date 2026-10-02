@@ -1,2 +1,2 @@
 # altinokmakine
-altınok makine imalat
+altınok makine imalat test arayüzü
