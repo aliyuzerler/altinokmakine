@@ -1,0 +1,2 @@
+# altinokmakine
+altınok makine imalat
