@@ -1,2 +1,2 @@
 # altinokmakine
-altınok makine imalat test arayüzü
+Ziyaret et : https://aliyuzerler.github.io/altinokmakine
